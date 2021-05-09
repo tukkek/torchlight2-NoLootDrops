@@ -37,5 +37,5 @@ For a number of reasons this isn't as "perfect" as the numbers initially suggest
 ## Possible future changes
 
 1. Make champions and bosses also only drop gold (as long as balance and the chance for coming across cool gear from other sources is maintained).
-2. ~~Consider boosting the amount of gold dropped, using the minimum- and maximum-rolls fields, to make up for having to depend more on expensive vendor purchases~~ (further testing shows this probably isn't necessary)
-3. Steam Workshop page for more convenient installation
+2. ~~Consider boosting the amount of gold dropped, using the minimum- and maximum-rolls fields, to make up for having to depend more on expensive vendor purchases~~ (further testing shows this probably isn't necessary).
+3. Steam Workshop page for more convenient installation.
