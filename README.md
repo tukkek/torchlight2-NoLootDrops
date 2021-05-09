@@ -32,7 +32,7 @@ For a number of reasons this isn't as "perfect" as the numbers initially suggest
 
 ## What is changed?
 
-1. All `TREASURE_MONSTERLOOT_*` Spawn Classes that don't targer a specific unit or specific unit type have been modified to roll directly on the `GOLD_PIECE` table (or their original values for `NONE`) instead of the various other tables (such as `TREASURE`, `CHAMPION_TREASURE`, etc). This is a very simple approach that does not take a couple technicalities under consideration but it seems to be balanced enough while also being maximally compatible with other mods.
+1. All `TREASURE_MONSTERLOOT_*` Spawn Classes that don't targer a specific unit or specific unit types have been modified to roll directly on the `GOLD_PIECE` table (or their original values for `NONE`) instead of the various other tables (such as `TREASURE`, `CHAMPION_TREASURE`, etc). This is a very simple approach that does not take a couple technicalities under consideration but it seems to be balanced enough while also being maximally compatible with other mods.
 
 ## Possible future changes
 
