@@ -33,7 +33,7 @@ For a number of reasons this isn't as "perfect" as the numbers initially suggest
 ## What is changed?
 
 1. All `TREASURE_MONSTERLOOT_*` Spawn Classes that don't targer a specific unit or specific unit types have been modified to roll directly on the `GOLD_PIECE` table (or their original values for `NONE`) instead of the various other tables (such as `TREASURE`, `CHAMPION_TREASURE`, etc). This is a very simple approach that does not take a couple technicalities under consideration but it seems to be balanced enough while also being maximally compatible with other mods.
-2. All of the generic `TREASURE_CHEST_*` and `CHEST_TREASURE_*` Spawn Classes have had their consumable drops removed and, where possible their chance to drop gear roughly reduced by 90%, with Magic Find bested by 200%. Where outright replacing an entry with `GOLD_PIECE` drops instead was not possible, a new `GOLD_PIECE` entry was added with a weight roughly equivalent to all of the removed odds. Non-generic Spawn Classes (such as Weapon Racks) were left unchanged.
+2. All of the generic `TREASURE_CHEST_*` and `CHEST_TREASURE_*` Spawn Classes have had their consumable drops removed and, where possible their chance to drop gear roughly reduced by 90%, with Magic Find boosted by 200%. Where outright replacing an entry with `GOLD_PIECE` drops instead was not possible, a new `GOLD_PIECE` entry was added with a weight roughly equivalent to half of the removed odds. Non-generic Spawn Classes (such as Weapon Racks) were left unchanged.
 
 ## Possible future changes
 
